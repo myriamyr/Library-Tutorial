@@ -42,7 +42,7 @@ const Nav = ({ numberOfItems }) => {
             )}
           </li>
         </ul>
-
+        
         <div className="menu__backdrop">
           <button className="btn__menu btn__menu--close" onClick={closeMenu}>
             <FontAwesomeIcon icon="times" />
